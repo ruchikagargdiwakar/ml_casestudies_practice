@@ -1,0 +1,15 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1.49724E+12,622,59 /konakart/Welcom.action,200,OK,Thread Group 1-1,text,TRUE,,34406,467,1,1,580,0,111
+1.49724E+12,37,69 /konakart/LogIn.action,200,OK,Thread Group 1-2,text,TRUE,,15378,630,1,1,34,0,0
+1.49724E+12,659,59 /konakart/Welcom.action,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,TRUE,,49784,1097,1,1,614,61,111
+1.49724E+12,1494,97 /konakart/Welcom.action,200,OK,Thread Group 1-4,text,TRUE,,34168,635,1,1,1464,0,1335
+1.49724E+12,440,108 /konakart/SelectCat.action,200,OK,Thread Group 1-5,text,TRUE,,32309,1160,1,1,139,0,33
+1.49724E+12,1934,97 /konakart/Welcom.action,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,,TRUE,,66477,1795,1,1,1603,5,1368
+1.49724E+12,321,120 /konakart/AddToCartFromProdId.action,200,OK,Thread Group 1-7,text,TRUE,,680,703,1,1,321,0,0
+1.49724E+12,321,120 /konakart/AddToCartFromProdId.action,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,TRUE,,680,703,1,1,321,3,0
+1.49724E+12,217,122 /konakart/Checkout.action,200,OK,Thread Group 1-8,text,TRUE,,16624,1295,1,1,101,0,0
+1.49724E+12,217,122 /konakart/Checkout.action,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,TRUE,,16624,1295,1,1,101,5,0
+1.49724E+12,184,152 /konakart/LogIn.action,200,OK,Thread Group 1-10,text,TRUE,,16338,629,1,1,151,0,87
+1.49724E+12,184,152 /konakart/LogIn.action,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-11,,TRUE,,16338,629,1,1,151,2,87
+1.49724E+12,860,158 /konakart/LoginSubmit.action,200,OK,Thread Group 1-12,text,TRUE,,39592,799,1,1,848,0,0
+1.49724E+12,860,158 /konakart/LoginSubmit.action,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-13,,TRUE,,39592,799,1,1,848,5,0
